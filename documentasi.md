@@ -57,3 +57,5 @@ docker compose up -d
 ```
 http://localhost
 ```
+## tampilan
+![tampilan eprints](tampilan.png)
