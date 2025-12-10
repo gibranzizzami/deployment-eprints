@@ -20,7 +20,7 @@ sudo docker compose up --build -d
 
 ## memberi akses file penuh ke user eprints
 ```
-chown -R -c eprints.eprints /usr/share/eprints/
+chown -R -c eprints:eprints /usr/share/eprints/
 ```
 
 ## masuk ke user eprints
