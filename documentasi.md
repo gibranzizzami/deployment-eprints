@@ -2,10 +2,16 @@
 ```
 sudo pacman -S docker docker-compose
 ```
+
 ## cloning docker images untuk eprints
 ``
 git clone https://github.com/DTLudlow/eprints-3.4.4-docker.git`
 ``
+
+## masuk ke direktori docker
+```
+cd eprints-3.4.4-docker-main
+```
 
 ## membuat docker container
 ```
